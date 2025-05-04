@@ -1,0 +1,21 @@
+# Python cache
+_pycache_/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Build artifacts
+dist/
+*.zip
+*.exe
+
+# Logs and keys
+logs/
+*.log
+encrypted_key.bin
+keys/private.pem
+
+# IDE settings
+.vscode/
+.idea/
